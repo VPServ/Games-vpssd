@@ -1,2 +1,2 @@
-# OpenSim.0.9.1
-Grid vpssd
+# vpssd.fr
+vps server Proxmox Ubuntu 17.10
